@@ -8,9 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C2D0EA25-7D7A-4216-BAB2-51DF00BB088E}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.Debug.bat = .nuget\NuGet.Debug.bat
 		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.Release.bat = .nuget\NuGet.Release.bat
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
